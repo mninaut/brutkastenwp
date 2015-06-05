@@ -1,9 +1,9 @@
 /*
-Theme Name: Megafoto
-Author: Matheus Ninaut
-Author URI: http://m.ninaut.com 
-Description: Theme for megafoto.org
-Version: 2.0
+Theme Name: brutkastenwp
+Author: brutkasten.
+Author URI: http://brutkasten.com.br 
+Description: The easy way to create own wordpress theme
+Version: 0.1
 */
 
-@import url("css/style.css") screen;
+@import url("css_path") screen;

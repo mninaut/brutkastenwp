@@ -1,7 +1,7 @@
 <?php
 
 
-require "framework/brutkasten.php";
+require "brutkastenwp/brutkasten.php";
 
 $theme = new Theme();
 $theme->init(array(

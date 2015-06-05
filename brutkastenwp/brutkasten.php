@@ -80,7 +80,7 @@ class Theme
         define('THEME_DIR', get_template_directory());
         define('THEME_URI', get_template_directory_uri());
 
-        define('THEME_FRAMEWORK', THEME_DIR . '/framework');
+        define('THEME_FRAMEWORK', THEME_DIR . '/brutkastenwp');
         
         define('THEME_HELPERS', THEME_FRAMEWORK . '/functions');
         define('THEME_PLUGINS', THEME_FRAMEWORK . '/plugins');

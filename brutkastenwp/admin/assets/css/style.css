@@ -1,0 +1,17 @@
+body {
+}
+
+.ab-icon {
+}
+
+.postbox {
+/*	background:rgba(0,0,0,0.0) !important;*/
+}
+
+#wp-admin-bar-comments,#wp-admin-bar-updates {
+
+	display:none;
+}
+
+#wp-admin-bar-site-name {
+}

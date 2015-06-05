@@ -1,7 +1,10 @@
 # brutkastenwp 0.1
 
+### Installation
+  
+Just put all files inside theme folder
 
-##ADD POST TYPE
+###ADD POST TYPE
 
 
 * Inside brutkastenwp/types create your file like foo.php

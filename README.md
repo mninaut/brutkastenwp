@@ -1,4 +1,4 @@
-# brutkastenwp 0.1
+# brutkastenWP. v0.1
 
 ### Installation
   

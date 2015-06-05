@@ -15,3 +15,7 @@ body {
 
 #wp-admin-bar-site-name {
 }
+
+.show-admin-bar {
+display: none;
+}

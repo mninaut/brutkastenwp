@@ -1,12 +1,12 @@
 <?php
 
 
-require "framework/ninaut.php";
+require "framework/brutkasten.php";
 
 $theme = new Theme();
 $theme->init(array(
-    'theme_name' => 'Megafoto',
-    'theme_slug' => 'megafoto'
+    'theme_name' => 'brutkasten WP',
+    'theme_slug' => 'brutkastenwp'
 ));
 
 // Retirar admin bar
